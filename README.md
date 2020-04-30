@@ -1,9 +1,9 @@
 
 # 가짜 뉴스 판별 - 팀 해피
-- 문이현[@201710922](https://github.com/201710922/MachineLearning)
-- 윤주석[@201611088](https://github.com/YUNJUSEOK)
-- 김민철[@201810759](https://github.com/201810759/Machine-Learning-Happy-)
-- 이우형[@201611136](https://github.com/dngud9701)
+- 문이현(https://github.com/201710922/MachineLearning)
+- 윤주석(https://github.com/YUNJUSEOK)
+- 김민철(https://github.com/201810759/Machine-Learning-Happy-)
+- 이우형(https://github.com/dngud9701)
  
 ---
 
