@@ -1,9 +1,9 @@
 
 # 가짜 뉴스 판별 - 팀 해피
 - 문이현[@201710922](https://github.com/201710922)
-- 윤주석(https://github.com/YUNJUSEOK)
-- 김민철(https://github.com/201810759)
-- 이우형(https://github.com/dngud9701)
+- 윤주석[@YUNJUSEOK](https://github.com/YUNJUSEOK)
+- 김민철[@201810759](https://github.com/201810759)
+- 이우형[@dngud9701](https://github.com/dngud9701)
  
 ---
 
