@@ -1,5 +1,5 @@
 
-# 가짜 뉴스 판별 - 팀 해피
+# 가짜 뉴스의 판별   _ 팀 해피
 - 문이현([@10922](https://github.com/10922))
 - 윤주석([@YUNJUSEOK](https://github.com/YUNJUSEOK))
 - 김민철([@201810759](https://github.com/201810759))
